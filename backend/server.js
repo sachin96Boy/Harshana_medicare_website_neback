@@ -19,7 +19,7 @@ app.get('/api/products', (req, res) => {
 app.get('/', (req, res) => {
     res.send('Server is ready');
 });
-const port = process.env.PORT || 5000;
+const port = process.env.PORT || 5000;  //listen to porrt 3000 or select a port where dataset resides
 app.listen(port, () => {
     console.log(`Serve at http://localhost:${port}`);
 });

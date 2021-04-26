@@ -1,5 +1,20 @@
-const prodData = {
-    products:[
+const data = {
+    users: [
+        {
+            username: 'Sachin',
+            email: 'testmail@gmail.com',
+            password: 'sachin1234',
+            isAdmin: true
+        },
+
+        {
+            username: 'John',
+            email: 'johnmail@gmail.com',
+            password: 'asdf1234',
+            isAdmin: false
+        }
+    ],
+    products: [
         {
             _id: '1',
             name: 'medical Supplies',
@@ -80,4 +95,4 @@ const prodData = {
     ]
 }
 
-export default prodData;
+export default data;
