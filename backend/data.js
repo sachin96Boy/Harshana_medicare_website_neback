@@ -16,9 +16,9 @@ const data = {
     ],
     products: [
         {
-            _id: '1',
-            name: 'medical Supplies',
-            category: 'Medicine_things',
+            // _id: '1',
+            name: 'medical Supplies1',
+            category: 'Medicine_things1',
             image: '/images/p_1.png',
             price: 150,
             countInStock: 10,
@@ -29,9 +29,9 @@ const data = {
         },
 
         {
-            _id: '2',
-            name: 'medical Supplies',
-            category: 'Medicine_things',
+            // _id: '2',
+            name: 'medical Supplies2',
+            category: 'Medicine_things2',
             image: '/images/p_1.png',
             price: 150,
             countInStock: 20,
@@ -42,9 +42,9 @@ const data = {
         },
 
         {
-            _id: '3',
-            name: 'medical Supplies',
-            category: 'Medicine_things',
+            // _id: '3',
+            name: 'medical Supplies3',
+            category: 'Medicine_things3',
             image: '/images/p_1.png',
             price: 150,
             countInStock: 0,
@@ -55,9 +55,9 @@ const data = {
         },
 
         {
-            _id: '4',
-            name: 'medical Supplies',
-            category: 'Medicine_things',
+            // _id: '4',
+            name: 'medical Supplies4',
+            category: 'Medicine_things4',
             image: '/images/p_1.png',
             price: 150,
             countInStock: 15,
@@ -68,9 +68,9 @@ const data = {
         },
 
         {
-            _id: '5',
-            name: 'medical Supplies',
-            category: 'Medicine_things',
+            // _id: '5',
+            name: 'medical Supplies5',
+            category: 'Medicine_things4',
             image: '/images/p_1.png',
             price: 150,
             countInStock: 14,
@@ -81,9 +81,9 @@ const data = {
         },
 
         {
-            _id: '6',
-            name: 'medical Supplies',
-            category: 'Medicine_things',
+            // _id: '6',
+            name: 'medical Supplies6',
+            category: 'Medicine_things5',
             image: '/images/p_1.png',
             price: 150,
             countInStock: 9,
